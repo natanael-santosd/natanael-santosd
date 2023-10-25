@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natanael Santos from the Dominican Republic
 - 👀 I’m interested in Data Analysis, Economics and Artificial Intelligence
-- 🌱 I’m currently learning Python Programming, Machine Learning, Deep Learning and 
+- 🌱 I’m currently learning Python Programming, Machine Learning, Deep Learning and Impact Policy Evaluation
 - 💞️ I’m looking to collaborate on research projects in the fields of social sciences
 - 📫 LinkedIn: Natanael Santos Delgado
 
